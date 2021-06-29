@@ -6,7 +6,7 @@ https://ibb.co/F3FM98F
 Получаем контакт по id
 https://ibb.co/0mR6z3Z
 
-Добавялем контакт
+Добавляем контакт
 https://ibb.co/MRjZ7c7
 
 Удаляем контакт
